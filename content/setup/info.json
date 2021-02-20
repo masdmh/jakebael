@@ -1,25 +1,26 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "sitename": "Bible in Ten",
+  "sitedescription": "No one can have faith without hearing the message about Christ.  So faith comes from hearing the Good News. And people hear the Good News when someone tells them about Christ.",
+  "siteicon": "/images/uploads/008.png",
   "showmenu": true,
-  "emailsignup": true,
-  "altlayout": false,
+  "emailsignup": false,
+  "altlayout": true,
   "menu": [
     {
-      "name": "jake101",
+      "name": "The Gospel of John ",
       "position": "1",
-      "link": "https://www.jake101.com/"
+      "link": "https://www.biblegateway.com/passage/?search=john&version=ICB"
     },
     {
-      "name": "Nuxt.js",
+      "name": "The Superior Word",
       "position": "2",
-      "link": "https://www.nuxtjs.org/"
+      "link": "http://www.superiorword.org/"
     },
     {
-      "name": "Netlify",
+      "name": "Support",
       "position": "3",
-      "link": "https://www.netlify.com/"
+      "link": "http://patreon.com/bibleinten"
     }
-  ]
+  ],
+  "linkcolor": "#515fb3"
 }
