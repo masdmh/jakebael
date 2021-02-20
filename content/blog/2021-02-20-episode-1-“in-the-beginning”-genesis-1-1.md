@@ -1,5 +1,5 @@
 ---
-title: " EPISODE 1  “IN THE BEGINNING”  Genesis 1:1"
+title: " Episode 1  “In the beginning”  Genesis 1:1"
 date: Saturday February 20th, 2021
 thumbnail: /images/uploads/episode-1-1500.jpg
 ---
