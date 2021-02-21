@@ -1,7 +1,7 @@
 ---
 title: Episode 3  “All creatures great and small”  genesis 1:20-25
 date: Saturday February 20th, 2021
-thumbnail: /images/uploads/episode-3-800h.jpg
+thumbnail: /images/uploads/episode-3-800h-crop.jpg
 category: Genesis
 ---
 > 20 Then God said, “Let the waters abound with an abundance of living \[e]creatures, and let birds fly above the earth across the face of the \[f]firmament of the heavens.” 21 So God created great sea creatures and every living thing that moves, with which the waters abounded, according to their kind, and every winged bird according to its kind. And God saw that it was good. 22 And God blessed them, saying, “Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on the earth.” 23 So the evening and the morning were the fifth day.
