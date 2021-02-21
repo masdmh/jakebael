@@ -1,9 +1,8 @@
 ---
 title: About
-date: 2018-07-07T03:00:50-07:00
-thumbnail: /images/uploads/bael-big.jpg
+date: 2021-02-21T05:45:59.912Z
+thumbnail: /images/uploads/bible-in-ten-animation.gif
 ---
-# Bael is a free blogging theme to use with Netlify CMS. It has a utilitarian, brutalist design that lends itself to written content and full width images.
+# A free 10 minute podcast in search of Christ Jesus.
 
-Available on [Github](https://github.com/jake-101/bael-template)   
-MIT Open Source License
+Available on ...
