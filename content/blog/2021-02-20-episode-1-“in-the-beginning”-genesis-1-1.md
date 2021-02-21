@@ -1,6 +1,6 @@
 ---
 title: " Episode 1"
-date: Saturday February 20th, 2021
+date: Friday February 19th, 2021
 tile: /images/uploads/episode-1-1500.jpg
 thumbnail: /images/uploads/episode1-widescreen.png
 category: Genesis
