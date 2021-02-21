@@ -46,7 +46,7 @@
       </div>
       <div class="c-12 xs-text-left xs-p2 xs-border xs-border-right-none xs-border-bottom-none">
         <div class="item xs-text-6">
-          Please have a Bible open while you listen.   Any version will d within reason.  You can get access to almost every one online for free from <a href="https://www.BibleGateway.com">Bible Gateway</a>.   Our family is currently enjoying the International Children's Bible, (ICB) for its clarity and trustworthiness.
+          Please have a Bible open while you listen.   Any version will do within reason.  You can get access to almost every one online for free from <a href="https://www.BibleGateway.com">Bible Gateway</a>.   We use the WEB version in our Scripture publication for the avoidance of copyright issues.  Our family is currently enjoying the International Children's Bible, (ICB) for its clarity and trustworthiness, and this is partially read out within the podcasts.
         </div>
       </div>
     </div>

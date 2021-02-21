@@ -3,8 +3,21 @@ title: Inspired By
 date: 2021-21-02T03:02:10-07:00
 ---
 
-Charlie Garrett (sermon writings)
-Pablo Hussey (flute music)
-Dave Thomas (sound production)
+## February 2021
 
+#### Writings
+
+* Charlie Garrett (sermon writings)
+
+#### Music
+
+* Pablo Hussey (flute music)
+
+#### Production
+
+* Dave Thomas (sound production)
+
+#### Design
+
+* Jake101
 
