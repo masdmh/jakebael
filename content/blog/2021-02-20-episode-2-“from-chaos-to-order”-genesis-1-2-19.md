@@ -5,7 +5,9 @@ tile: /images/uploads/episode-2-1500.jpg
 thumbnail: /images/uploads/episode2-widescreen.png
 category: Genesis
 ---
-## “From chaos to order”  
+<iframe title="From order to chaos" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/media/player/p8kyt-fb5a13?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=107"></iframe>
+
+## “From chaos to order”
 
 > 2 The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.
 >
@@ -20,5 +22,3 @@ category: Genesis
 >  Genesis 1:2-19
 
 On the first Wednesday the world existed diamonds were revealed in the sky.
-
-<iframe title="From order to chaos" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/media/player/p8kyt-fb5a13?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=107"></iframe>
