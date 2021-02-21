@@ -12,30 +12,8 @@
           <nuxt-link
             class="xs-text-center xs-flex xs-full-height xs-flex-align-center xs-flex-justify-center xs-text-center"
             :to="p.path"
-			tag="img"
-			:src="p.tile"
-			:alt="p.title"
-          ></nuxt-link>
+          ><img :src="p.tile" :alt="p.title"/> </nuxt-link>
 
-			B
-			<a href="p.path">
-			<img :src="p.tile" :alt="p.title"/>
-			</a>
-
-			B2
-			<a href="p.path">
-			<img src="p.tile" alt="p.title"/>
-			</a>
-
-			C
-			<a href="p.path">
-			<img :src="{p.tile}" :alt="{p.title}"/>
-			</a>
-			
-			D
-			<a href="p.path">
-			<img :src="{{p.tile}}" :alt="{{p.title}}"/>
-			</a>
 
         </div>
       </div>
