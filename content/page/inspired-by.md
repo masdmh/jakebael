@@ -17,7 +17,7 @@ date: 2021-21-02T03:02:10-07:00
 
 * Dave Thomas (sound production)
 
-#### Design
+#### Family
 
-* Jake101
+* My wife and four lovely children are a blessing from the Lord.   Thanks to them for their interest, patience, feedback and when necessary silence!
 
