@@ -12,7 +12,7 @@ export default {
     
     const blogPosts = await $content("blog")
       .sortBy("createdAt", "desc")
-      .only(["title", "path"])
+      .only(["title", "path", "tile"])
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: "Page not found" });
