@@ -12,7 +12,10 @@
           <nuxt-link
             class="xs-text-center xs-flex xs-full-height xs-flex-align-center xs-flex-justify-center xs-text-center"
             :to="p.path"
-          ><img :src="p.tile" :alt="p.title"/></nuxt-link>
+			tag="img"
+			:src="require(p.tile)"
+			:alt="p.title"
+          ></nuxt-link>
 
         </div>
       </div>
