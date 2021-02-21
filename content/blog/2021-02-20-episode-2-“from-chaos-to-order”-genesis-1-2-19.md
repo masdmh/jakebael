@@ -21,4 +21,4 @@ category: Genesis
 >
 >  Genesis 1:2-19
 
-On the first Wednesday the world existed diamonds were revealed in the sky.
+On the first Wednesday the world existed *diamonds* were revealed in the sky.
