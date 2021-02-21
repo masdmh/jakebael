@@ -5,4 +5,4 @@ thumbnail: /images/uploads/bael-big.jpg
 ---
 # A free podcast in search of Christ Jesus.
 
-Available on <a href="http://www.podbean.com/bibleinten">Podbean</a>
+Available on <a href="https://bibleinten.podbean.com/">Podbean</a>
