@@ -13,7 +13,7 @@
             class="xs-text-center xs-flex xs-full-height xs-flex-align-center xs-flex-justify-center xs-text-center"
             :to="p.path"
 			tag="img"
-			:src="p.tile"
+			:src="`{p.tile}`"
 			:alt="p.title"
           ></nuxt-link>
 
