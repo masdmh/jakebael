@@ -8,21 +8,14 @@
         class="xs-border xs-border-top-none xs-border-left-none xs-p2 bcg-item"
         :style="`transition-delay:0.${i * .5}s`"
       >
-       <div
+		<div
           v-if="p.tile"
           class="item xs-block xs-full-height xs-flex xs-relative xs-flex-align-start xs-flex-justify-end xs-text-left"
         >
-          <div
-            class="xs-text-left xs-flex xs-full-height xs-flex-justify-end xs-flex-align-end xs-width-auto"
-          >
-            <nuxt-link class="" :to="p.path">{{p.title}}</nuxt-link>
-          </div>
-          <nuxt-link :to="p.path">
-            <img v-lazy="p.tile" :key="p.tile"/>
-
-            <div v-if="!p.tile" class="full-bg-color"></div>
-          </nuxt-link>
-        </div>
+			<nuxt-link :to="p.path">
+				<img v-lazy="p.tile" :key="p.tile"/>			
+			</nuxt-link>
+		</div>
         <div
           v-else
           class="item item-txt xs-block xs-full-height xs-flex xs-relative xs-flex-align-center xs-flex-justify-center xs-text-center"
