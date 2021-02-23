@@ -1,7 +1,7 @@
 ---
 title: Episode 2
 date: Saturday February 20th, 2021
-tile: /images/uploads/episode-2.jpg
+tile: /images/uploads/episode-2-1500.jpg
 thumbnail: /images/uploads/episode2-widescreen.png
 category: Genesis
 ---
