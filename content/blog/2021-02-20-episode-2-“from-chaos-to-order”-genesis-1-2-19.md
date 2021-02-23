@@ -5,7 +5,7 @@ tile: /images/uploads/episode-2-1500.jpg
 thumbnail: /images/uploads/episode2-widescreen.png
 category: Genesis
 ---
-<iframe title="0002 - From chaos to order" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/media/player/ansmn-fb6069?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=107"></iframe
+<iframe title="0002 - From chaos to order" height="122" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/media/player/ansmn-fb6069?from=pb6admin&download=1&version=1&auto=0&share=1&download=1&rtl=0&fonts=Helvetica&skin=1&pfauth=&btn-skin=107"></iframe>
 
 ## “From chaos to order”
 
