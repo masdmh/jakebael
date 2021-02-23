@@ -212,7 +212,7 @@ nav .r {
 }
 .r.full-height {
   grid-gap: 0;
-  height: calc(107vh - var(--nav-height));
+  height: calc(114vh - var(--nav-height));
   margin-top: var(--nav-height);
 }
 .paginated .r.full-height {
