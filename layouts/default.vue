@@ -3,8 +3,9 @@
     <bael-header />
     <nuxt />
     <lazy-slide-out />
-    <bael-footer />
+    
   </section>
+  <bael-footer />
 </template>
 <script>
 export default {
