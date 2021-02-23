@@ -10,13 +10,13 @@ export default {
   async asyncData({ $content, params, error, store }) {
     const blogPosts = await $content("blog")
       .sortBy("createdAt", "desc")
-      .only(["title", "path"])
+      .only(["title", "path", "tile"])
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: "Page not found" });
       });
-    const chunk = _chunk(blogPosts, 12);
-    if (blogPosts.length > 12) {
+    const chunk = _chunk(blogPosts, 6);
+    if (blogPosts.length > 6) {
       store.commit("SET_PAGINATION", {
         active: true,
         page: 1,
