@@ -3,7 +3,7 @@
     <div class="r xs-border-bottom">
       <div class="c-4 xs-text-left xs-p2 sm-border-right">
         <div class="item">
-          <nuxt-link class="sitename">{{$store.state.info.sitename}}</nuxt-link> =
+          <nuxt-link class="sitename" to="/" exact>{{$store.state.info.sitename}}</nuxt-link>
         </div>
 		
 		<div class="item">
