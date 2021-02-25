@@ -3,13 +3,11 @@
     <div class="r xs-border-bottom">
       <div class="c-4 xs-text-left xs-p2 sm-border-right">
         <div class="item">
-          <nuxt-link class="sitename">{{$store.state.info.sitename}}</nuxt-link>
+          <nuxt-link class="sitename">{{$store.state.info.sitename}}</nuxt-link> =
         </div>
 		
 		<div class="item">
-			<a href="https://bibleinten.podbean.com/">Podbean</a> | <a href="https://open.spotify.com/show/2MenEKIwW16M1R67f28WZx">Spotify</a>
-		
-		  
+			<a href="https://bibleinten.podbean.com/">Podbean</a> | <a href="https://open.spotify.com/show/2MenEKIwW16M1R67f28WZx">Spotify</a>		  
 		</div>
       </div>
 
