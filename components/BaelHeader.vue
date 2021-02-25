@@ -7,7 +7,7 @@
         </div>
 		
 		<div class="item">
-			<nuxt-link to="https://bibleinten.podbean.com/" exact>Podbean</nuxt-link>
+			<a href="https://bibleinten.podbean.com/">Podbean</a> | <a href="https://open.spotify.com/show/2MenEKIwW16M1R67f28WZx">Spotify</a>
 		
 		  
 		</div>
