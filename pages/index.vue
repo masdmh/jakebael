@@ -15,8 +15,8 @@ export default {
       .catch((err) => {
         error({ statusCode: 404, message: "Page not found" });
       });
-    const chunk = _chunk(blogPosts, 3);
-    if (blogPosts.length > 3) {
+    const chunk = _chunk(blogPosts, 6);
+    if (blogPosts.length > 6) {
       store.commit("SET_PAGINATION", {
         active: true,
         page: 1,

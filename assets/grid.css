@@ -212,12 +212,12 @@ nav .r {
 }
 .r.full-height {
   grid-gap: 0;
-  height: calc(114vh - var(--nav-height));
+  /* height: calc(114vh - var(--nav-height)); */
   margin-top: var(--nav-height);
 }
 .paginated .r.full-height {
   grid-gap: 0;
-  height: calc(100vh - var(--nav-height) - 70px);
+  /* height: calc(100vh - var(--nav-height) - 70px); */
   margin-top: var(--nav-height);
 }
 @media only screen and (max-width: 40rem) {

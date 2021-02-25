@@ -39,7 +39,7 @@
         <div class="item">
           <div class="footer__heading xs-mb2">Prayer request</div>
 
-				Please pray that we will be able to continue this service for the Lord.
+				Please be blessed as you relax and listen.
           
           </a>
         </div>
