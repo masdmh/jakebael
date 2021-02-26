@@ -8,7 +8,7 @@ import FullGrid from "~/components/FullGrid";
 import _chunk from "lodash/chunk";
 
 export default {
-  async asyncData({ $content, params, error,store }) {
+  async asyncData({ $content, params, error, store }) {
     
     const blogPosts = await $content("blog")
       .sortBy("date", "asc")
