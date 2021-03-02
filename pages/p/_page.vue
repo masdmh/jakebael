@@ -11,7 +11,7 @@ export default {
   async asyncData({ $content, params, error, store }) {
     
     const blogPosts = await $content("blog")
-      .sortBy("date", "asc")
+      .sortBy("createdAt", "asc")
       .only(["title", "path", "tile"])
       .fetch()
       .catch((err) => {
