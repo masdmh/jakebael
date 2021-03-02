@@ -19,7 +19,7 @@ export default {
     if (blogPosts.length > 12) {
       store.commit("SET_PAGINATION", {
         active: true,
-        page: 1,
+        page: params.page,
         itemsOnPage: chunk[0].length,
         totalItems: blogPosts.length,
         totalPages: chunk.length,
