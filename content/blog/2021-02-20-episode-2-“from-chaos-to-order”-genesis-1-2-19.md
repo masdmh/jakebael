@@ -1,6 +1,6 @@
 ---
 title: Episode 2
-date: Saturday February 20th, 2021
+date: Friday February 19th, 2021
 tile: /images/uploads/episode-2-1500.jpg
 thumbnail: /images/uploads/episode2-widescreen.png
 category: Genesis
@@ -19,6 +19,6 @@ category: Genesis
 >
 > 14 God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years; 15 and let them be for lights in the expanse of the sky to give light on the earth;” and it was so. 16 God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars. 17 God set them in the expanse of the sky to give light to the earth, 18 and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good. 19 There was evening and there was morning, a fourth day.
 >
->  Genesis 1:2-19
+> ######  Genesis 1:2-19
 
 On the first Wednesday the world existed *diamonds* were revealed in the sky.
