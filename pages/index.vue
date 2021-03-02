@@ -9,7 +9,7 @@ import _chunk from "lodash/chunk";
 export default {
   async asyncData({ $content, params, error, store }) {
     const blogPosts = await $content("blog")
-      .sortBy("createdAt", "asc")
+      .sortBy("date", "asc")
       .only(["title", "path", "tile"])
       .fetch()
       .catch((err) => {
