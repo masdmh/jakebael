@@ -12,7 +12,7 @@ export default {
       });
 
     const posts = await $content("blog")
-      .sortBy("createdAt", "desc")
+      .sortBy("date", "desc")
       .where({ category: category.title })
       .fetch();
 

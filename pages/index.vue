@@ -9,14 +9,14 @@ import _chunk from "lodash/chunk";
 export default {
   async asyncData({ $content, params, error, store }) {
     const blogPosts = await $content("blog")
-      .sortBy("date", "asc")
+      .sortBy("title", "asc")
       .only(["title", "path", "tile"])
       .fetch()
       .catch((err) => {
         error({ statusCode: 404, message: "Page not found" });
       });
-    const chunk = _chunk(blogPosts, 12);
-    if (blogPosts.length > 12) {
+    const chunk = _chunk(blogPosts, 3);
+    if (blogPosts.length > 3) {
       store.commit("SET_PAGINATION", {
         active: true,
         page: 1,
