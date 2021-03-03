@@ -1,5 +1,5 @@
 ---
-title: Episode 2
+title: Episode 002
 date: Friday February 19th, 2021
 tile: /images/uploads/episode-2-1500.jpg
 thumbnail: /images/uploads/episode2-widescreen.png
