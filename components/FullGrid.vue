@@ -59,10 +59,10 @@ export default {
   },
   methods: {
     pageCheck() {
-      if (this.allitems.length > 3) {
+      if (this.allitems.length > 2) {
         this.$store.commit("paginateOn", true);
         this.$store.commit("resultsLength", this.allitems.length);
-      } else if (this.allitems.length < 3) {
+      } else if (this.allitems.length < 2) {
         this.$store.commit("paginateOff", false);
       } else {
         this.$store.commit("paginateOff", false);
@@ -75,7 +75,7 @@ export default {
         this.busy = true;
 
         this.items2.splice(0);
-        for (var i = 0, j = 3; i < j; i++) {
+        for (var i = 0, j = 2; i < j; i++) {
           let api = this.allitems[this.count];
 
           this.items2.push(api);
