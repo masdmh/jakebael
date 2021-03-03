@@ -1,5 +1,5 @@
 ---
-title: Episode 3
+title: Episode 003
 date: Saturday February 20th, 2021
 tile: /images/uploads/episode-3-1500.jpg
 thumbnail: /images/uploads/episode3-widescreen.png
