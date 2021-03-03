@@ -1,5 +1,5 @@
 ---
-title: " Episode 1"
+title: " Episode 001"
 date: Thursday February 18th, 2021
 tile: /images/uploads/episode-1-1500.jpg
 thumbnail: /images/uploads/episode1-widescreen.png
