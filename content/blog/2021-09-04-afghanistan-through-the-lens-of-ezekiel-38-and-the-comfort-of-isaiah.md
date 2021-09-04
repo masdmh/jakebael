@@ -1,7 +1,7 @@
 ---
 title: "Afghanistan through the lens of Ezekiel 38 and the comfort of Isaiah "
 date: Saturday September 4th, 2021
-tile: /images/uploads/ezekiel38-bibleinten-sorrow-will-flee.png
+tile: /images/uploads/episode-64-tile.jpg
 thumbnail: /images/uploads/ezekiel38-bibleinten-sorrow-will-flee-wide.png
 category: Bible Prophecy
 ---
